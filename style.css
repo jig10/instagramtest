@@ -1,0 +1,82 @@
+body {
+	background-color: white;
+
+}
+
+.nav {
+	width:90%;
+	height: 50px;
+	background-color: white;
+	font-size:25px;
+	font-weight: bold;
+	color: black;
+	text-indent:26%;
+	margin:auto;
+	padding-top: 15px;
+
+
+
+
+
+}
+
+.scroll {
+
+	width:90%;
+	margin:auto;
+	background-color: #EAEAEA;
+	padding-top:50px;
+	padding-bottom: 50px;
+
+}
+
+
+.card-wrap {
+	display: flex;
+	background-color: white;
+	width:500px;
+	flex-direction: column;
+	margin:auto;
+	margin-bottom: 50px;
+
+
+
+
+
+	
+}
+
+.title {
+	display: flex;
+	flex-flow: row;
+	flex-wrap: wrap;
+	background-color: white;
+	width: 100%;
+
+
+
+	
+
+}
+
+.title h2 {
+	justify-content: flex-start;
+	margin: 0;
+	padding: 10px;
+	font-size: 20px;
+	
+}
+
+.title span {
+	justify-content: flex-end;
+	margin-left: auto;
+	padding: 10px;
+	font-size: 20px;
+	color: gray;
+
+}
+
+.text {
+
+	padding: 7px;
+}
